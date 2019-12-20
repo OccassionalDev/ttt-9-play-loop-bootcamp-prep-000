@@ -43,5 +43,4 @@ def play(board)
     turn(board)
     num_turns += 1
   end
-  
 end
